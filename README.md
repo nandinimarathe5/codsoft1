@@ -1,2 +1,2 @@
 # codsoft1
-landing page html and css
+Create landing page using html and css
